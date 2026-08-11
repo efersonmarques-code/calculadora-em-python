@@ -1,2 +1,2 @@
 # calculadora-em-python
-Um projeto de calculadora estremamente legivel para que quer aprende python
+Um projeto de calculadora feito por um estudante de programação
