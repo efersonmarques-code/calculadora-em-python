@@ -26,8 +26,8 @@ elif operacao == "/":
   try:
         print(f"A divisão e: {numero1 / numero2}")
     except ZeroDivisionError:
-  
-        print("Erro não e possível dividir por zero!")
+      print("Erro não e possível dividir por zero!")
+       
         
 else:
     print("Operação inválida!")
